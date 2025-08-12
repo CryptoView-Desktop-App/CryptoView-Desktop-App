@@ -30,7 +30,7 @@ For traders seeking a reliable, secure, and feature-rich solution to manage thei
 
 ---
 
-![CryptoView Interface](https://www.cryptoview.com/wp-content/uploads/2019/03/Balance-Full.jpg)
+![CryptoView Interface](https://a.fsdn.com/con/app/proj/cryptoview.s/screenshots/Captura%20de%20Pantalla%202020-12-31%20a%20la%28s%29%200.08.56.png/max/max/1)
 
 ---
 
